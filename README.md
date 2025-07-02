@@ -22,22 +22,22 @@
 <br />
 <div align="center">
   <a href="https://github.com/ArjunSarkar1/EXeraProject">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="110" height="85">
   </a>
 
-<h3 align="center">EXera Hires AI</h3>
+<h3 align="center">Exera Hires AI</h3>
 
   <p align="center">
     Eliminating Bias, Enhancing Diversity, & Finding the Best Talent
     <br />
-    <a href="https://github.com/ArjunSarkar1/EXeraProject"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ArjunSarkar1/ExeraHiresAI"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ArjunSarkar1/EXeraProject">View Demo</a>
+    <a href="https://gamma.app/docs/Transforming-Hiring-Fairness-h0648j2z173s9m2">View Presentation</a>
     &middot;
-    <a href="https://github.com/ArjunSarkar1/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/ArjunSarkar1/ExeraHiresAI/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
-    <a href="https://github.com/ArjunSarkar1/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/ArjunSarkar1/ExeraHiresAI/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -61,6 +61,9 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <ul>
+    <a href="#demo">Demo</a>
+    </ul>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -69,16 +72,14 @@
 </details>
 
 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+The primary purpose of this project is to mitigate bias and maintain diversity in an organiztion utilizing the power of AI.
 
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
+It's by leveraging AI we will attempt to address this issue all while adhering to the DEI system.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -86,13 +87,6 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 [![Swift][Swift-logo]][Swift-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
 
 
 ### Prerequisites
@@ -105,7 +99,7 @@ This is an example of how you may give instructions on setting up your project l
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ArjunSarkar1/EXeraProject.git
+   git clone https://github.com/ArjunSarkar1/ExeraHiresAI.git
    ```
 2. Run project
 
@@ -117,7 +111,18 @@ This is an example of how you may give instructions on setting up your project l
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Screenshots of the application.
+
+<img src="images/job-board.png" alt="Job Board Section" width="120">
+<img src="images/job-board-scanning.png" alt="Job Board Section" width="120">
+<img src="images/interviews.png" alt="Job Board Section" width="120">
+<img src="images/interview-report.png" alt="Job Board Section" width="120">
+<img src="images/candidates.png" alt="Job Board Section" width="120">
+<img src="images/analytics.png" alt="Job Board Section" width="120">
+
+### Demo
+
+See the [presentation](https://gamma.app/docs/Transforming-Hiring-Fairness-h0648j2z173s9m2) for the full thought process, business pitch and primary objectives.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -126,17 +131,18 @@ Use this space to show useful examples of how a project can be used. Additional 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Job Board Section
-    - [ ] Scan Applications per role
-- [ ] Candidate Selection
-    - [ ] Ranked by DEI Score
-- [ ] Interview Preparations
-    - [ ] Curate interview inquiries
-    - [ ] Model detects biases during meeting recordings
-- [ ] Analytics
-    - [ ] Summary Report
+- **Job Board Section**
+    - Scan Applications per role
+- **Candidate Selection**
+    - Ranked applicants by DEI Score per role
+- **Interview Preparations**
+    - Set interview dates
+    - Curate interview inquiries
+    - Model detects biases during meeting recordings
+- **Analytics**
+    - Summary Report
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/ArjunSarkar1/ExeraHiresAi/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -152,7 +158,7 @@ Distributed under the project_license. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/ArjunSarkar1/EXeraProject](https://github.com/ArjunSarkar1/EXeraProject)
+Project Link: [https://github.com/ArjunSarkar1/ExeraHiresAI](https://github.com/ArjunSarkar1/ExeraHiresAI)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -161,12 +167,10 @@ Project Link: [https://github.com/ArjunSarkar1/EXeraProject](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []() Rebecca Lyons
-* []() Marcelli Walczak
+* Rebecca Lyons
+* Marcelli Walczak
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
