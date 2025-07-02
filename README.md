@@ -113,12 +113,14 @@ It's by leveraging AI we will attempt to address this issue all while adhering t
 
 Screenshots of the application.
 
-<img src="images/job-board.png" alt="Job Board Section" width="120">
-<img src="images/job-board-scanning.png" alt="Job Board Section" width="120">
-<img src="images/interviews.png" alt="Job Board Section" width="120">
-<img src="images/interview-report.png" alt="Job Board Section" width="120">
-<img src="images/candidates.png" alt="Job Board Section" width="120">
-<img src="images/analytics.png" alt="Job Board Section" width="120">
+<div class="image-row">
+  <img src="images/job-board.png" alt="Job Board Section" width="120">
+  <img src="images/job-board-scanning.png" alt="Job Board Section" width="120">
+  <img src="images/interviews.png" alt="Job Board Section" width="120">
+  <img src="images/interview-report.png" alt="Job Board Section" width="120">
+  <img src="images/candidates.png" alt="Job Board Section" width="120">
+  <img src="images/analytics.png" alt="Job Board Section" width="120">
+</div>
 
 ### Demo
 
